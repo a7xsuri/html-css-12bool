@@ -139,3 +139,37 @@ section {
     margin-left: calc((100% / 12) * 11);
 }
 
+.start-sx {
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.center-sx {
+    justify-content: center;
+    text-align: center;
+}
+
+.end-sx {
+    justify-content: flex-end;
+    text-align: right;
+}
+
+.top-sx {
+    align-items: flex-start;
+}
+
+.middle-sx {
+    align-items: center;
+}
+
+.bottom-sx {
+    align-items: flex-end;
+}
+
+.space-around-sx {
+    justify-content: space-around;
+}
+
+.space-between-sx {
+    justify-content: space-between;
+}
