@@ -94,3 +94,37 @@ section {
     width: calc((100% / 12) * 12);
     max-width: calc((100% / 12) * 12);
 }
+
+.col-sx-offset-1{
+    margin-left: calc((100% / 12) * 1);
+}
+.col-sx-offset-2{
+    margin-left: calc((100% / 12) * 2);
+}
+.col-sx-offset-3{
+    margin-left: calc((100% / 12) * 3);
+}
+.col-sx-offset-4{
+    margin-left: calc((100% / 12) * 4);
+}
+.col-sx-offset-5{
+    margin-left: calc((100% / 12) * 5);
+}
+.col-sx-offset-6{
+    margin-left: calc((100% / 12) * 6);
+}
+.col-sx-offset-7{
+    margin-left: calc((100% / 12) * 7);
+}
+.col-sx-offset-8{
+    margin-left: calc((100% / 12) * 8);
+}
+.col-sx-offset-9{
+    margin-left: calc((100% / 12) * 9);
+}
+.col-sx-offset-10{
+    margin-left: calc((100% / 12) * 10);
+}
+.col-sx-offset-11{
+    margin-left: calc((100% / 12) * 11);
+}
